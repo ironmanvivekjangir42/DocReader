@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978994796198",
+    "firebase_url": "https://docreader-a5b98.firebaseio.com",
+    "project_id": "docreader-a5b98",
+    "storage_bucket": "docreader-a5b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978994796198:android:15afff642cd10b6ec50667",
+        "android_client_info": {
+          "package_name": "com.example.docreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978994796198-3i129pacqcbu3g43eifb813923fqjk1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVGC8og0q5N5RMUB-EYMLEz1kwjMlyy1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978994796198-3i129pacqcbu3g43eifb813923fqjk1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
